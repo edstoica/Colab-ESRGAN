@@ -1,5 +1,5 @@
 # Colab-ESRGAN [[Enhanced SRGAN Paper]](https://arxiv.org/abs/1809.00219)
-## Simply download `Colab-ESRGAN-(new&old-arch).ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN-(new&old-arch).ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive. 
+## Simply download `Colab-ESRGAN.ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN.ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive. 
 ### 
 
 ### Credits
