@@ -1,6 +1,10 @@
 # Colab-ESRGAN [[Enhanced SRGAN Paper]](https://arxiv.org/abs/1809.00219)
-## Simply download `Colab-ESRGAN.ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN.ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive. 
+## Simply download `Colab-ESRGAN.ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN.ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive.
 ### 
+
+My Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN.ipynb)
+
+Alternative Colab with [efonte/ESRGAN](https://github.com/efonte/ESRGAN): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/efonte/colab-notebooks/blob/master/ESRGAN.ipynb)
 
 ### Credits
 Enhanced Super-Resolution Generative Adversarial Networks by Xintao Wang, [Ke Yu](https://yuke93.github.io/), Shixiang Wu, [Jinjin Gu](http://www.jasongt.com/), Yihao Liu, [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ&hl=en), [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/)
